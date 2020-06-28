@@ -1,0 +1,2491 @@
+
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY BALANCED FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY BOND FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY BOND FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY BOND FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY BOND FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY EQUITY FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY MONEY MARKET FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY OPTIMAL FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY OPTIMAL FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY OPTIMAL FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY OPTIMAL FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY ORBIS GLOBAL EQUITY FEEDER FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL EQUITY FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY ORBIS GLOBAL EQUITY FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL EQUITY FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY ORBIS GLOBAL FUND OF FUNDS
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY ORBIS GLOBAL FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY ORBIS GLOBAL OPTIMAL FUND OF FUNDS
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL OPTIMAL FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY ORBIS GLOBAL OPTIMAL FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY ORBIS GLOBAL OPTIMAL FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY SA EQUITY FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY SA EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY SA EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY SA EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY STABLE FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY STABLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY STABLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY STABLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ALLAN GRAY TAX-FREE BALANCED FUND
+Given that "JANETTE_PILLAY" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY TAX-FREE BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ALLAN GRAY TAX-FREE BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ALLAN GRAY TAX-FREE BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS BALANCED FUND OF FUNDS
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS BALANCED FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS BALANCED FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS BALANCED FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS BALANCED INDEX TRACKER FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS BALANCED INDEX TRACKER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS BALANCED INDEX TRACKER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS BALANCED INDEX TRACKER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS CONSERVATIVE FUND OF FUNDS
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS CONSERVATIVE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS CONSERVATIVE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS CONSERVATIVE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS DEFENSIVE FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS DEFENSIVE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS DEFENSIVE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS DEFENSIVE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS ENHANCED YIELD FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS ENHANCED YIELD FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS ENHANCED YIELD FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS ENHANCED YIELD FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS EQUITY FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS FLEXIBLE INCOME FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS FLEXIBLE INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS FLEXIBLE INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS FLEXIBLE INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS GLOBAL BALANCED FUND OF FUNDS
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS GLOBAL BALANCED FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS GLOBAL BALANCED FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS GLOBAL BALANCED FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS INSTITUTIONAL BOND FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL BOND FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS INSTITUTIONAL BOND FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL BOND FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS INSTITUTIONAL MULIT ASSET FLEXIBLE FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL MULIT ASSET FLEXIBLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS INSTITUTIONAL MULIT ASSET FLEXIBLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL MULIT ASSET FLEXIBLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS INSTITUTIONAL MULTI ASSET LOW EQUITY FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL MULTI ASSET LOW EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS INSTITUTIONAL MULTI ASSET LOW EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS INSTITUTIONAL MULTI ASSET LOW EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS MANAGED FLEXIBLE FUND OF FUNDS
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MANAGED FLEXIBLE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS MANAGED FLEXIBLE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MANAGED FLEXIBLE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS MANAGED FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MANAGED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS MANAGED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MANAGED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS MODERATE FUND OF FUNDS
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MODERATE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS MODERATE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS MODERATE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PPS STABLE GROWTH FUND
+Given that "DIVAN_SHEPHERD" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS STABLE GROWTH FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PPS STABLE GROWTH FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PPS STABLE GROWTH FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - GLACIER AI FLEXIBLE FUND OF FUNDS - B
+Given that "MELISSA_JAFTHA" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER AI FLEXIBLE FUND OF FUNDS - B" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "GLACIER AI FLEXIBLE FUND OF FUNDS - B" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER AI FLEXIBLE FUND OF FUNDS - B" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - GLACIER GLOBAL STOCK FEEDER - B
+Given that "MELISSA_JAFTHA" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER GLOBAL STOCK FEEDER - B" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "GLACIER GLOBAL STOCK FEEDER - B" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER GLOBAL STOCK FEEDER - B" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - GLACIER MONEY MARKET FUND
+Given that "MELISSA_JAFTHA" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "GLACIER MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "GLACIER MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CANNON EQUITY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON EQUITY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CANNON EQUITY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON EQUITY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CANNON MID AND SMALL CAP H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON MID AND SMALL CAP H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CANNON MID AND SMALL CAP H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON MID AND SMALL CAP H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CANNON MONEY MARKET H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON MONEY MARKET H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CANNON MONEY MARKET H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CANNON MONEY MARKET H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL BALANCED H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL BALANCED H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL BALANCED H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL BALANCED H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL GLOBAL EQUITY H4 FUND OF FUNDS
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL GLOBAL EQUITY H4 FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL GLOBAL EQUITY H4 FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL GLOBAL EQUITY H4 FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA 20/20 EQUITY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA 20/20 EQUITY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA 20/20 EQUITY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA 20/20 EQUITY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA BOND H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA BOND H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA BOND H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA BOND H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA EQUITY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA EQUITY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA EQUITY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA EQUITY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA INCOME H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA INCOME H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA INCOME H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA INCOME H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA MONEY MARKET H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA MONEY MARKET H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA MONEY MARKET H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA MONEY MARKET H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA MULTI-FACTOR EQUITY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA MULTI-FACTOR EQUITY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA MULTI-FACTOR EQUITY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA MULTI-FACTOR EQUITY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA PROPERTY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA PROPERTY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA PROPERTY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA PROPERTY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL SA PROTECTED EQUITY H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA PROTECTED EQUITY H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL SA PROTECTED EQUITY H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL SA PROTECTED EQUITY H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - CITADEL WORLDWIDE FLEXIBLE H4 FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL WORLDWIDE FLEXIBLE H4 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "CITADEL WORLDWIDE FLEXIBLE H4 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "CITADEL WORLDWIDE FLEXIBLE H4 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 CPI+6% FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 CPI+6% FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 CPI+6% FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 CPI+6% FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 DIVERSIFIED FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 DIVERSIFIED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 DIVERSIFIED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 DIVERSIFIED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 FOCUSED WEALTH FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 FOCUSED WEALTH FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 FOCUSED WEALTH FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 FOCUSED WEALTH FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 GROWTH FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 GROWTH FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 GROWTH FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 GROWTH FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 STABLE FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 STABLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 STABLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 STABLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - H4 WORLDWIDE EQUITY FUND
+Given that "AMEER_ADHIKARI" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 WORLDWIDE EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "H4 WORLDWIDE EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "H4 WORLDWIDE EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM BALANCED VALUE FUND OF FUNDS
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM BALANCED VALUE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM BALANCED VALUE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM BALANCED VALUE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM BOND FUND
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM BOND FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM BOND FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM BOND FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM EQUITY FUND
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM GLOBAL DIVERSIFIED FUND
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM GLOBAL DIVERSIFIED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM GLOBAL DIVERSIFIED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM GLOBAL DIVERSIFIED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM INCOME FUND
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - IFM TECHNICAL FUND
+Given that "NTEBOGENG_MOGAGABE" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM TECHNICAL FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "IFM TECHNICAL FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "IFM TECHNICAL FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ADVICEWORX OLD MUTUAL INFLATION PLUS 2-3% FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 2-3% FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ADVICEWORX OLD MUTUAL INFLATION PLUS 2-3% FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 2-3% FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ADVICEWORX OLD MUTUAL INFLATION PLUS 3-4% FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 3-4% FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ADVICEWORX OLD MUTUAL INFLATION PLUS 3-4% FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 3-4% FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ADVICEWORX OLD MUTUAL INFLATION PLUS 4-5% FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 4-5% FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ADVICEWORX OLD MUTUAL INFLATION PLUS 4-5% FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 4-5% FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - ADVICEWORX OLD MUTUAL INFLATION PLUS 5-7% FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 5-7% FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "ADVICEWORX OLD MUTUAL INFLATION PLUS 5-7% FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "ADVICEWORX OLD MUTUAL INFLATION PLUS 5-7% FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL ALBARAKA BALANCED FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL ALBARAKA BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL ALBARAKA BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL ALBARAKA BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL ALBARAKA EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL ALBARAKA EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL ALBARAKA EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL ALBARAKA EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL BALANCED FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL BOND FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL BOND FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL BOND FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL BOND FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL CAPITAL BUILDER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CAPITAL BUILDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL CAPITAL BUILDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CAPITAL BUILDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL CORE BALANCED FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL CORE BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL CORE CONSERVATIVE FUND A
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE CONSERVATIVE FUND A" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL CORE CONSERVATIVE FUND A" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE CONSERVATIVE FUND A" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL CORE MODERATE FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE MODERATE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL CORE MODERATE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL CORE MODERATE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL DYNAMIC FLOOR FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL DYNAMIC FLOOR FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL DYNAMIC FLOOR FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL DYNAMIC FLOOR FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL FLEXIBLE FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL FLEXIBLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL FLEXIBLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL FLEXIBLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL GLOBAL CURRENCY FEEDER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL CURRENCY FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL GLOBAL CURRENCY FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL CURRENCY FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL GLOBAL EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL GLOBAL EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL GLOBAL FTSE RAFI ALL WORLD INDEX FEEDER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL FTSE RAFI ALL WORLD INDEX FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL GLOBAL FTSE RAFI ALL WORLD INDEX FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GLOBAL FTSE RAFI ALL WORLD INDEX FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL GOLD FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GOLD FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL GOLD FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL GOLD FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL INCOME FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL INSTITUTIONAL MONEY MARKET FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INSTITUTIONAL MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL INSTITUTIONAL MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INSTITUTIONAL MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL INTEREST PLUS FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INTEREST PLUS FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL INTEREST PLUS FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INTEREST PLUS FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL INVESTORS FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INVESTORS FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL INVESTORS FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL INVESTORS FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MANAGED ALPHA EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MANAGED ALPHA EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MANAGED ALPHA EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MANAGED ALPHA EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MAXIMUM RETURN FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MAXIMUM RETURN FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MID N SMALL-CAP FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MID N SMALL-CAP FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MID N SMALL-CAP FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MID N SMALL-CAP FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MINING AND RESOURCES FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MINING AND RESOURCES FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MINING AND RESOURCES FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MINING AND RESOURCES FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MODERATE BALANCED FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MODERATE BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MODERATE BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MODERATE BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MONEY MARKET FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MSCI EMERGING MARKETS ESG INDEX FEEDER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MSCI EMERGING MARKETS ESG INDEX FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MSCI EMERGING MARKETS ESG INDEX FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MSCI EMERGING MARKETS ESG INDEX FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MSCI WORLD ESG INDEX FEEDER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MSCI WORLD ESG INDEX FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MSCI WORLD ESG INDEX FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MSCI WORLD ESG INDEX FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS AGGRESSIVE BALANCED FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS AGGRESSIVE BALANCED FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS AGGRESSIVE BALANCED FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS AGGRESSIVE BALANCED FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS BALANCED FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS BALANCED FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS BALANCED FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS BALANCED FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS CAUTIOUS FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS CAUTIOUS FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS CAUTIOUS FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS CAUTIOUS FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS DEFENSIVE FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS DEFENSIVE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS DEFENSIVE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS DEFENSIVE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS ENHANCED INCOME FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS ENHANCED INCOME FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS ENHANCED INCOME FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS ENHANCED INCOME FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS EQUITY FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS EQUITY FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS EQUITY FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS EQUITY FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL-MANAGED EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL-MANAGED EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL-MANAGED EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL-MANAGED EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS GLOBAL EQUITY FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL EQUITY FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS GLOBAL EQUITY FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL EQUITY FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS GLOBAL INCOME FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL INCOME FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS GLOBAL INCOME FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL INCOME FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS GLOBAL PROPERTY FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL PROPERTY FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS GLOBAL PROPERTY FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS GLOBAL PROPERTY FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 1
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 1" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 1" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 1" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 2
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 2" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 2" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 2" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 3
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 3" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 3" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 3" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 4
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 4" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 4" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 4" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 5
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 5" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 5" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INCOME FUND NO. 5" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 2
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 2" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 2" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 2" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 3
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 3" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 3" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS INFLATION PLUS FUND NO. 3" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS MAXIMUM RETURN FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS MAXIMUM RETURN FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS MONEY MARKET FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS PROPERTY EQUITY FUND NO. 1
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS PROPERTY EQUITY FUND NO. 1" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS PROPERTY EQUITY FUND NO. 1" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS PROPERTY EQUITY FUND NO. 1" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 1
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 1" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 1" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 1" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 2
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 2" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 2" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 2" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 3
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 3" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 3" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 3" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 4
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 4" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 4" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL MULTI-MANAGERS SATELLITE EQUITY FUND NO. 4" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL RAFI 40 TRACKER FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL RAFI 40 TRACKER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL RAFI 40 TRACKER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL RAFI 40 TRACKER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL REAL INCOME FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL REAL INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL REAL INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL REAL INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL SA QUOTED PROPERTY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL SA QUOTED PROPERTY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL SA QUOTED PROPERTY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL SA QUOTED PROPERTY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL STABLE GROWTH FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL STABLE GROWTH FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL STABLE GROWTH FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL STABLE GROWTH FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUAL TOP 40 FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL TOP 40 FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUAL TOP 40 FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUAL TOP 40 FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OLD MUTUALL CAPPED SWIX INDEX FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUALL CAPPED SWIX INDEX FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OLD MUTUALL CAPPED SWIX INDEX FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OLD MUTUALL CAPPED SWIX INDEX FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - OM INSTITUTIONAL SHORT TERM INTEREST FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OM INSTITUTIONAL SHORT TERM INTEREST FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "OM INSTITUTIONAL SHORT TERM INTEREST FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "OM INSTITUTIONAL SHORT TERM INTEREST FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PIC OLD MUTUAL BALANCED FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PIC OLD MUTUAL BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PIC OLD MUTUAL BOND FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL BOND FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PIC OLD MUTUAL BOND FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL BOND FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PIC OLD MUTUAL EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PIC OLD MUTUAL EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PIC OLD MUTUAL MONEY MARKET FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PIC OLD MUTUAL MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PIC OLD MUTUAL MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS EQUITY FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS EQUITY FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS EQUITY FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS EQUITY FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS FLEXIBLE INCOME FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS FLEXIBLE INCOME FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS FLEXIBLE INCOME FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS FLEXIBLE INCOME FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INFLATION MATCHING FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION MATCHING FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INFLATION MATCHING FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION MATCHING FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INFLATION PLUS 1-3 FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 1-3 FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INFLATION PLUS 1-3 FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 1-3 FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INFLATION PLUS 3-5 FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 3-5 FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INFLATION PLUS 3-5 FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 3-5 FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INFLATION PLUS 3-5 PRUDENT FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 3-5 PRUDENT FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INFLATION PLUS 3-5 PRUDENT FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 3-5 PRUDENT FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INFLATION PLUS 4-6 FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 4-6 FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INFLATION PLUS 4-6 FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INFLATION PLUS 4-6 FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INTERNATIONAL FIXED INTEREST FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL FIXED INTEREST FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INTERNATIONAL FIXED INTEREST FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL FIXED INTEREST FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INTERNATIONAL FLEXBLE FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL FLEXBLE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INTERNATIONAL FLEXBLE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL FLEXBLE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS INTERNATIONAL GROWTH FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL GROWTH FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS INTERNATIONAL GROWTH FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS INTERNATIONAL GROWTH FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS MAXIMUM RETURN FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS MAXIMUM RETURN FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS MAXIMUM RETURN FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS MONEY MARKET FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS PROPERTY EQUITY FUND
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS PROPERTY EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS PROPERTY EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS PROPERTY EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SIS PROPERTY FUND OF FUNDS
+Given that "THERESA_HONEYCOMB" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS PROPERTY FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SIS PROPERTY FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SIS PROPERTY FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG BALANCED FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG BALANCED FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG BALANCED FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG BALANCED FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG DIVERSIFIED INCOME FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG DIVERSIFIED INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG DIVERSIFIED INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG DIVERSIFIED INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG EQUITY FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG FLEXIBLE FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG FLEXIBLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG FLEXIBLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG FLEXIBLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG GLOBAL EQUITY FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG GLOBAL EQUITY FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG GLOBAL EQUITY FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG GLOBAL EQUITY FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG GLOBAL FLEXIBLE FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG GLOBAL FLEXIBLE FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG GLOBAL FLEXIBLE FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG GLOBAL FLEXIBLE FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG INCOME FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG INCOME FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG INCOME FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG INCOME FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG MONEY MARKET FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MONEY MARKET FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG MONEY MARKET FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MONEY MARKET FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG MULTI-MANAGEMENT CAUTIOUS FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT CAUTIOUS FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG MULTI-MANAGEMENT CAUTIOUS FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT CAUTIOUS FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG MULTI-MANAGEMENT GROWTH FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT GROWTH FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG MULTI-MANAGEMENT GROWTH FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT GROWTH FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG MULTI-MANAGEMENT MULTI-ASSET INCOME FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT MULTI-ASSET INCOME FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG MULTI-MANAGEMENT MULTI-ASSET INCOME FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG MULTI-MANAGEMENT MULTI-ASSET INCOME FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG SA EQUITY FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG SA EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG SA EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG SA EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG STABLE FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG STABLE FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG STABLE FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG STABLE FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH CREATOR FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH CREATOR FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH CREATOR FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH CREATOR FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH GLOBAL CREATOR FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL CREATOR FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH GLOBAL CREATOR FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL CREATOR FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH ENHANCED INTEREST FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH ENHANCED INTEREST FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH ENHANCED INTEREST FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH ENHANCED INTEREST FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH GLOBAL FLEXIBLE FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL FLEXIBLE FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH GLOBAL FLEXIBLE FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL FLEXIBLE FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH GLOBAL MODERATE FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL MODERATE FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH GLOBAL MODERATE FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL MODERATE FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH GLOBAL PRESERVER FEEDER FUND
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL PRESERVER FEEDER FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH GLOBAL PRESERVER FEEDER FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH GLOBAL PRESERVER FEEDER FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH INCOME FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH INCOME FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH INCOME FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH INCOME FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH MODERATE FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH MODERATE FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH MODERATE FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH MODERATE FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - PSG WEALTH PRESERVER FUND OF FUNDS
+Given that "NIEL_KRASTIN" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH PRESERVER FUND OF FUNDS" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "PSG WEALTH PRESERVER FUND OF FUNDS" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "PSG WEALTH PRESERVER FUND OF FUNDS" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA 4TH INDUSTRIAL REVOLUTION GLOBAL EQUITY FUND
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA 4TH INDUSTRIAL REVOLUTION GLOBAL EQUITY FUND" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA 4TH INDUSTRIAL REVOLUTION GLOBAL EQUITY FUND" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA 4TH INDUSTRIAL REVOLUTION GLOBAL EQUITY FUND" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX DJ EURO STOXX 50
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX DJ EURO STOXX 50" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX DJ EURO STOXX 50" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX DJ EURO STOXX 50" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX FTSE 100
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX FTSE 100" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX FTSE 100" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX FTSE 100" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX GLOBAL PROPERTY ETF
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX GLOBAL PROPERTY ETF" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX GLOBAL PROPERTY ETF" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX GLOBAL PROPERTY ETF" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX MSCI JAPAN ETF
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI JAPAN ETF" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX MSCI JAPAN ETF" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI JAPAN ETF" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX MSCI USA ETF
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI USA ETF" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX MSCI USA ETF" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI USA ETF" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX MSCI WORLD ETF
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI WORLD ETF" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX MSCI WORLD ETF" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX MSCI WORLD ETF" in the "2017/01" Release
+    
+@ProdDryRun
+@ProdDryRunKabelo
+Scenario: SPDR.03 Scenario 04 - SYGNIA ITRIX SNP500 ETF
+Given that "DEBRA_GILL" is logged into the "External Interface"
+When he navigates to view the "Forms Portal - Ready Tab" page on the external interface
+# When he navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX SNP500 ETF" in the "2017/01" Release
+When he selects the "Start" action on the identified Form Instance
+# When she selects the "EDIT" action on the identified Form Instance
+And he captures "SYGNIA ITRIX SNP500 ETF" data into the form
+And he selects to save the form
+And he selects to submit the form, expecting it to "SUCCEED"
+And he navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+Then he sees a form instance for a "C23" form for "SYGNIA ITRIX SNP500 ETF" in the "2017/01" Release
+    

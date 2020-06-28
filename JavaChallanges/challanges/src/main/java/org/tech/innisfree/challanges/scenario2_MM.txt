@@ -1,0 +1,76 @@
+
+      @ProdDryRunKabelo
+      Scenario: SPDR.02 Scenario 02.3 -  MARRIOTT MONEY MARKET FUND (Classification Money Market Fund)
+      Given that "CHARLENE_RAMAYIN" is logged into the "External Interface"
+      When she navigates to view the "Forms Portal - Ready Tab" page on the external interface
+      #	When she navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "MARRIOTT MONEY MARKET FUND" in the "2017/01" Release
+      When she selects the "Start" action on the identified Form Instance
+      #	 When she selects the "EDIT" action on the identified Form Instance
+      And she uploads data from the "I0167916 MMF.xlsx" file into the form
+      Then she sees upload "SUCCESSFUL" message "File uploaded successfully."
+      When she acknowledges the "SUCCESSFUL" form upload message
+      And she selects to submit the form, expecting it to "SUCCEED"
+      And she navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "MARRIOTT MONEY MARKET FUND" in the "2017/01" Release
+    
+      @ProdDryRunKabelo
+      Scenario: SPDR.02 Scenario 02.3 -  OASIS MONEY MARKET FUND (Classification Money Market Fund)
+      Given that "RICARDO_MCCALLUM" is logged into the "External Interface"
+      When she navigates to view the "Forms Portal - Ready Tab" page on the external interface
+      #	When she navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "OASIS MONEY MARKET FUND" in the "2017/01" Release
+      When she selects the "Start" action on the identified Form Instance
+      #	 When she selects the "EDIT" action on the identified Form Instance
+      And she uploads data from the "I0167916 MMF.xlsx" file into the form
+      Then she sees upload "SUCCESSFUL" message "File uploaded successfully."
+      When she acknowledges the "SUCCESSFUL" form upload message
+      And she selects to submit the form, expecting it to "SUCCEED"
+      And she navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "OASIS MONEY MARKET FUND" in the "2017/01" Release
+    
+      @ProdDryRunKabelo
+      Scenario: SPDR.02 Scenario 02.3 -  STANLIB CORPORATE MONEY MARKET FUND (Classification Money Market Fund)
+      Given that "SIBULELE_PETER" is logged into the "External Interface"
+      When she navigates to view the "Forms Portal - Ready Tab" page on the external interface
+      #	When she navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB CORPORATE MONEY MARKET FUND" in the "2017/01" Release
+      When she selects the "Start" action on the identified Form Instance
+      #	 When she selects the "EDIT" action on the identified Form Instance
+      And she uploads data from the "I0167916 MMF.xlsx" file into the form
+      Then she sees upload "SUCCESSFUL" message "File uploaded successfully."
+      When she acknowledges the "SUCCESSFUL" form upload message
+      And she selects to submit the form, expecting it to "SUCCEED"
+      And she navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB CORPORATE MONEY MARKET FUND" in the "2017/01" Release
+    
+      @ProdDryRunKabelo
+      Scenario: SPDR.02 Scenario 02.3 -  STANLIB INSTITUTIONAL MONEY MARKET FUND (Classification Money Market Fund)
+      Given that "SIBULELE_PETER" is logged into the "External Interface"
+      When she navigates to view the "Forms Portal - Ready Tab" page on the external interface
+      #	When she navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB INSTITUTIONAL MONEY MARKET FUND" in the "2017/01" Release
+      When she selects the "Start" action on the identified Form Instance
+      #	 When she selects the "EDIT" action on the identified Form Instance
+      And she uploads data from the "I0167916 MMF.xlsx" file into the form
+      Then she sees upload "SUCCESSFUL" message "File uploaded successfully."
+      When she acknowledges the "SUCCESSFUL" form upload message
+      And she selects to submit the form, expecting it to "SUCCEED"
+      And she navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB INSTITUTIONAL MONEY MARKET FUND" in the "2017/01" Release
+    
+      @ProdDryRunKabelo
+      Scenario: SPDR.02 Scenario 02.3 -  STANLIB MONEY MARKET FUND (Classification Money Market Fund)
+      Given that "SIBULELE_PETER" is logged into the "External Interface"
+      When she navigates to view the "Forms Portal - Ready Tab" page on the external interface
+      #	When she navigates to view the "Forms Portal - In Progress Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB MONEY MARKET FUND" in the "2017/01" Release
+      When she selects the "Start" action on the identified Form Instance
+      #	 When she selects the "EDIT" action on the identified Form Instance
+      And she uploads data from the "I0167916 MMF.xlsx" file into the form
+      Then she sees upload "SUCCESSFUL" message "File uploaded successfully."
+      When she acknowledges the "SUCCESSFUL" form upload message
+      And she selects to submit the form, expecting it to "SUCCEED"
+      And she navigates to view the "Forms Portal - Submitted Tab" page on the external interface
+      Then she sees a form instance for a "C23" form for "STANLIB MONEY MARKET FUND" in the "2017/01" Release
+    
